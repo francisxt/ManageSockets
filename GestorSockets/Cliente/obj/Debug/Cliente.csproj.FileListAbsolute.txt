@@ -1,0 +1,9 @@
+c:\users\user\documents\visual studio 2013\Projects\GestorSockets\Cliente\bin\Debug\Cliente.exe.config
+c:\users\user\documents\visual studio 2013\Projects\GestorSockets\Cliente\obj\Debug\Cliente.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2013\Projects\GestorSockets\Cliente\obj\Debug\GestorSockets.frmCliente.resources
+c:\users\user\documents\visual studio 2013\Projects\GestorSockets\Cliente\obj\Debug\Cliente.Properties.Resources.resources
+c:\users\user\documents\visual studio 2013\Projects\GestorSockets\Cliente\obj\Debug\Cliente.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2013\Projects\GestorSockets\Cliente\bin\Debug\Cliente.exe
+c:\users\user\documents\visual studio 2013\Projects\GestorSockets\Cliente\bin\Debug\Cliente.pdb
+c:\users\user\documents\visual studio 2013\Projects\GestorSockets\Cliente\obj\Debug\Cliente.exe
+c:\users\user\documents\visual studio 2013\Projects\GestorSockets\Cliente\obj\Debug\Cliente.pdb
